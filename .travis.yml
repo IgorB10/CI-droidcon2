@@ -19,3 +19,8 @@ android:
 
 notifications:
   slack: conference-chat:eRjnj7KLOtvWaU0FJJ5ppUVn
+
+licenses:
+   - 'android-sdk-preview-license-.+'
+   - 'android-sdk-license-.+'
+   - 'google-gdk-license-.+'
